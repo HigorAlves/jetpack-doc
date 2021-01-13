@@ -17,7 +17,7 @@ With this monorepo you can start right now developing for Web, Mobile, Server si
 2. Install dependencies with `yarn install`
 3. Compile the code: `yarn build`
 4. Link the package to the global module directory: `yarn bootstrap`
-5. You can start using Jetpack Stack
+5. You can start using _Jetpack_ Stack
 
 ## About us
 
